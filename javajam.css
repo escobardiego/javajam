@@ -21,16 +21,16 @@ padding: 0;
 header {
 background-color: #D2B48C;
 background-image: url(coffelogo.jpg);
-background- repeat : no-repeat;
+background-repeat : no-repeat;
 color: #231814;
 padding-left: 240px;
 padding-top: 5px;
 padding-bottom: 5px;
 }	
-header a{ text-decoration: none; }
+header a { text-decoration: none; }
 header a: link { color: #231814; }
 header a: visited { color: #231814; }
-header a : hover { color: #FEF6C2; }
+header a: hover { color: #FEF6C2; }
 hl { font-size: 3em; }
 h2 { color: #8C3826; }
 h3, dt { color: #8C3826; }
@@ -40,22 +40,22 @@ font-size: 1.2em;
 padding-left: .5em;
 padding-bottom : 5em;
 text-transform: uppercase;
-border- bottom : 5px solid #221811;
+border-bottom : 1px solid #221811;
 clear: left;
 }	
 nav {
 float: left;
 font-weight: bold;
 text-align: center;
-font-size: 1. 5em;
+font-size: 1.5em;
 padding-top: 5px;
 padding-bottom: 5px;
 width: 200px;
 }	
 nava a { text-decoration: none; }
 nav a: link { color: #FEF6C2; }
-nav a:visited { color: #D2B48C; }
-nav a : hover { color: #CC9933; }
+nav a:visited { color: #D2B48C;}
+nav a:hover { color: #CC9933; }
 nav ul {
 list-style-type: none;
 padding-left: 0;}
@@ -72,12 +72,12 @@ padding-left: 20%;
 padding-right: 20%;
 overflow: auto;
 }	
-. float left {
+.float left {
 float: left;
 padding-right :2em ;
 padding-bottom :2em ;
 }	
-. onethird {
+.onethird {
 float: left;
 width: 33%;
 }	
