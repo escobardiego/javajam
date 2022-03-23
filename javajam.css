@@ -38,9 +38,9 @@ h4 {
 background-color: #D2B48C;
 font-size: 1.2em;
 padding-left: .5em;
-padding-bottom : 0;
+padding-bottom: 0;
 text-transform: uppercase;
-border-bottom : 1px solid #221811;
+border-bottom: 1px solid #221811;
 clear: left;
 }	
 nav {
@@ -60,7 +60,7 @@ nav ul {
 list-style-type: none;
 padding-left: 0;}
 main {
-background-color :#FEF6C2;
+background-color:#FEF6C2;
 display: block;
 margin-left: 200px;
 overflow: auto;
@@ -74,8 +74,8 @@ overflow: auto;
 }	
 .float left {
 float: left;
-padding-right :2em ;
-padding-bottom :2em ;
+padding-right:2em ;
+padding-bottom:2em ;
 }	
 .onethird {
 float: left;
@@ -106,7 +106,7 @@ background-size: 100% 100%;
 footer {
 background-color: #D2B48C;
 font-size: .60em;
-font-style : italic;
+font-style: italic;
 text-align: center;
 padding-bottom: 1em;
 border-top: 2px solid #8C3826;
