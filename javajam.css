@@ -21,7 +21,7 @@ padding: 0;
 header {
 background-color: #D2B48C;
 background-image: url(coffeelogo.jpg);
-background-repeat:no-repeat;
+background-repeat: no-repeat;
 color: #231814;
 padding-left: 240px;
 padding-top: 5px;
@@ -72,7 +72,7 @@ padding-left: 20%;
 padding-right: 20%;
 overflow: auto;
 }	
-.float left {
+.floatleft {
 float: left;
 padding-right:2em ;
 padding-bottom:2em ;
